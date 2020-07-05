@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gaojie002/space%20game/_apis/build/status/gaojie333.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/gaojie002/space%20game/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
